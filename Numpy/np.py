@@ -21,3 +21,8 @@ print(ddd.ndim)
 dto4 = np.array((1,2,3,4), ndmin=4)
 
 print(f"1D to 4D: {dto4}")
+
+print("display all arrays")
+print(d)
+print(dd)
+print(ddd)
